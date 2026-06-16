@@ -1,0 +1,9 @@
+Superstore Sales Dashboard - Insights
+
+1. The West region generated the highest sales, making it the best-performing region.
+2. The South region recorded the lowest sales compared to other regions.
+3. Sales showed a noticeable increase during September, November, and December, indicating stronger demand toward the end of the year.
+4. Phones and Chairs were among the top-selling sub-categories based on total sales.
+5. Some sub-categories generated high sales but lower profit, suggesting opportunities to improve pricing or cost management.
+6. Profitability varied significantly across product sub-categories, highlighting the importance of analyzing both sales and profit together.
+7. The dashboard provides a clear overview of sales trends, regional performance, and product-level profitability for business decision-making.
