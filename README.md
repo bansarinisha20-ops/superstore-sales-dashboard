@@ -47,7 +47,6 @@ Through this project, I improved my skills in:
 ## Project Files
 
 - superstore_sales_dashboard.twbx
-- superstore_dataset.csv
 - insights.txt
 
 ## Author
