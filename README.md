@@ -42,7 +42,7 @@ Through this project, I improved my skills in:
 - Sales Performance Analysis
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](./dashboard_overview.png)
+https://github.com/bansarinisha20-ops/superstore-sales-dashboard/blob/main/%20dashboard_overview.png
 
 ## Project Files
 
