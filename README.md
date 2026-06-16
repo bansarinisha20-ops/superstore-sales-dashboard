@@ -42,8 +42,7 @@ Through this project, I improved my skills in:
 - Sales Performance Analysis
 
 ## Dashboard Screenshot
-
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard Screenshot](dashboard_overview.png)
 
 ## Project Files
 
